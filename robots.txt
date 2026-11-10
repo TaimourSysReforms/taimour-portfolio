@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR-USERNAME.github.io/taimour-portfolio/sitemap.xml
+Sitemap: https://taimoursysreforms.github.io/taimour-portfolio/sitemap.xml
